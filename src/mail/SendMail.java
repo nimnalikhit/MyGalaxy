@@ -24,8 +24,8 @@ this.text = text;
 public void send()
 {
 String host = "smtp.gmail.com";
-String userid = "b.bhups@gmail.com";
-String password = "adam";  // password change karna hai.....
+String userid = "username@mail.com";
+String password = "yourpassword";  // password change karna hai.....
 try
 {
 Properties props = System.getProperties();
